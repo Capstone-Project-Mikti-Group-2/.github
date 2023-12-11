@@ -12,11 +12,11 @@ Dalam pelaksanaan capstone project ini, kamu akan punya pengalaman baru🤩. Sel
 **Deskripsi:** Platform ini merupakan tempat jual-beli tiket konser ataupun event. Platform ini membuka dan menyediakan berbagai jenis kategori kebutuhan. User yang mendaftarkan diri pada aplikasi ini dapat berperan buyer. Dalam hal ini, pengguna diharapkan dapat dengan mudah menemukan jadwal konser yang sesuai dengan kebutuhan mereka dan membayar tiket secara online. Selain itu, website ini juga diharapkan dapat menyediakan informasi yang akurat dan terkini tentang event yang sedang berlangsung.
 
 **Fitur Wajib:** 
-- Registrasi User
-- Implementasi In App Notification (Fitur lonceng di dalam notifikasi, bukan push notifikasi)
-- Profil User
-- Histori Transaksi
-- Search & Filter
+- Registrasi User [✔️]
+- Implementasi In App Notification (Fitur lonceng di dalam notifikasi, bukan push notifikasi) [✔️]
+- Profil User [✔️]
+- Histori Transaksi [✔️]
+- Search & Filter [✔️]
 
 **Arsitektur:**
 Basic MVC, Monolith two layers (back end layer and front end layer)
@@ -34,16 +34,16 @@ master : Production only
 Develop/Staging : Staging and Testing
 
 # Deliverable Final Project for Back End
-- API
-- Swagger
+- API Documentation
+- Swagger / Postman
 - Repository
 
 # Credits
-- Aldi Rhiyadi
-- Adhafa Syahrim
-- Daffa
-- Nabila
-- Hizriyan
+- Aldi Rhiyadi [Github](https://github.com/Wazven)
+- Adhafa Syahrim [Github](https://github.com/Adhafa-Syahrim)
+- Daffa Tagiya Kusmedi [Github](https://github.com/daffaTagiya)
+- Nabila Amalia Syarifa [Github](https://github.com/amalmol)
+- Hizriyan Amrulloh [Github](https://github.com/nlyhrlmrzh)
 
 
 
